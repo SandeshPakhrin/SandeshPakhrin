@@ -1,39 +1,37 @@
-<h1 align="center">Hi 👋, I'm Santosh Dahal</h1>
-<h3 align="center">A Flutter Developer passionate about building scalable cross-platform apps 🚀</h3>
+<h1 align="center">Hi 👋, I'm Sandesh Pakhrin</h1>
+<h3 align="center">A MERN stack  passionate about building scalable web application 🚀</h3>
 
 ---
 
 ## 👨‍💻 About Me  
 - 🎓 Pursuing **Bachelor in Computer Application** at **Tribhuvan University**  
-- 💡 Passionate about **Flutter, REST APIs, State Management, Performance Optimization, and CI/CD**  
-- 🌍 Open to collaborating on **open-source projects** and innovative mobile app ideas  
+- 💡 Passionate about **Node js,Express,React js,Javascript,PHP, REST APIs, Performance Optimization, and CI/CD**  
+- 🌍 Open to collaborating on **open-source projects** and innovative web app  
 
 ---
 
 ## 🔭 Current Projects  
-- 📱 **Entrance Exam Preparation App** for school-level students in Nepal (**Flutter + MongoDB**)  
-- 🌐 **Personal Portfolio Website** (built with Flutter)  
+- 📱 **Movie Review** for users can review the movie (**Node + React + MongoDB**)  
+- 🌐 **Personal Portfolio Website** (built with React)  
 
 ---
 
 ## 🌱 Currently Exploring  
-- **Flutter for Web & Desktop**  
-- **Advanced Performance Optimization in Flutter**  
 - **Backend Development (Node.js, Express, MongoDB)**  
 
 ---
 
 ## 📬 Connect with Me  
 <p align="left">
-  <a href="mailto:dev@santoshdahal.info.np">
+  <a href="mailto:pandesh956@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/saantdahal">
+  <a href="https://github.com/SandeshPakhrin">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/santosh-dahal-83559b298/">
+<!--   <a href="https://www.linkedin.com/in/santosh-dahal-83559b298/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -59,7 +57,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saantdahal&theme=github_dark" alt="Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saantdahal&theme=github_dark" alt="GitHub Stats"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saantdahal&theme=github_dark&utcOffset=8" alt="Productive Time"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SandeshPakhrin&theme=github_dark" alt="Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandeshPakhrin&theme=github_dark" alt="GitHub Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SandeshPakhrin&theme=github_dark&utcOffset=8" alt="Productive Time"/>
 </p>
